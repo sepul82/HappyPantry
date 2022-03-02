@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">Happy Pantry</string>
+    <string name="text_productos">Todos los Productos:</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="text_agregar">Agregar Producto</string>
+    <string name="text_cancelar">Volver</string>
+    <string name="error_message_name">Introduce un Nombre Correcto</string>
+    <string name="error_message_email">Introduce un E-mail Válido</string>
+    <string name="error_message_ubicacion">Introduce una Ubicación correcta</string>
+    <string name="error_message_caducidad">Introduce una Fecha de Caducidad correcta</string>
+    <string name="error_message_cantidad">Introduce una Cantidad Válida</string>
+    <string name="error_message_nombreproducto">Introduce un Nombre de Producto Correcto</string>
+    <string name="error_message_password">Introduce una Contraseña</string>
+    <string name="success_message">Registro Correcto</string>
+    <string name="success_message_producto">Registro de Producto Correcto</string>
+    <string name="text_not_member">¿Nuevo Usuario? Crea una Cuenta</string>
+    <string name="text_already_member">¿Ya tienes cuenta? Loguéate</string>
+    <string name="error_email_exists">El E-mail ya existe</string>
+    <string name="error_producto_exists">El Producto ya existe</string>
+    <string name="error_password_match">Las contraseñas no coinciden</string>
+    <string name="error_valid_email_password">Contraseña o E-mail incorrectos</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hola,</string>
+    <string name="text_title">Título</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="hint_Productname">Nombre Producto</string>
+    <string name="hint_Productname_Reducido">Nombre Prod.</string>
+    <string name="hint_Ubicacion">Ubicación Producto</string>
+    <string name="hint_Cantidad">Cantidad</string>
+    <string name="hint_Fecha_Caducidad">Fecha de Caducidad</string>
+    <string name="hint_Fecha_Caducidad_reducida">Fecha cad.</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!--Strings used for Pantalla_Principal -->
+
+</resources>
